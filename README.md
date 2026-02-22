@@ -6,7 +6,7 @@
 
 * My goal was to learn the basics of the JAVA language, particularly class inheritance, validating, and decisions.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1qzqhcoMypc)
 
 # Development Environment
 
